@@ -1,0 +1,1 @@
+Some information in readme was updated
